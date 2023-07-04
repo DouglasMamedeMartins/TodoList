@@ -1,6 +1,6 @@
-#Projeto feito para praticar React, Next e TailwindCss
+# Projeto feito para praticar React, Next e TailwindCss
 
-#Feito com base em estudos da B7WEB
+# Feito com base em estudos da B7WEB
 
 Link abaixo para acessar o site:
 
